@@ -17,5 +17,10 @@
 1. Modelos de clasificación: Área geográfica, cantidad de usuarios, tipos de servicios, área de responsabilidad que cubre dicha red.
 2. Internet y entidades.
 3. LAN vs WAN
+### La capa física
+1. Conectividad física: NIC (cableadas o inalámbricas)
+2. Funciones de la capa física: transportar bits...
+3. Estándares de la capa física: Componentes físicos, codificación (Manchester, NRZ, 4B/5B), estándares (EIA/TIA, ISO, ITU, IEEE) y señalización (Representación de bits). 
+4. Parámetros físicos: Latencia, Rendimiento, Capacidad de transferencia util.
 
 
