@@ -13,4 +13,9 @@
 1. Cisco Borderless Networks.
 2. Modelos de diseño jerárquicos de redes de campus: Modelo tres capas y dos capas.
 3. Funciones de cada capa: Capa de acceso, capa de distribución, capa de nucleo.
+### Clasificación de las redes según el tamaño
+1. Modelos de clasificación: Área geográfica, cantidad de usuarios, tipos de servicios, área de responsabilidad que cubre dicha red.
+2. Internet y entidades.
+3. LAN vs WAN
+
 
