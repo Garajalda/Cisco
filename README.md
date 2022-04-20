@@ -20,7 +20,12 @@
 ### La capa física
 1. Conectividad física: NIC (cableadas o inalámbricas)
 2. Funciones de la capa física: transportar bits...
-3. Estándares de la capa física: Componentes físicos, codificación (Manchester, NRZ, 4B/5B), estándares (EIA/TIA, ISO, ITU, IEEE) y señalización (Representación de bits). 
+3. Estándares de la capa física: Componentes físicos, codificación (Manchester, NRZ, 4B/5B), estándares (EIA/TIA, ISO, ITU, IEEE) y señalización (Represe.ntación de bits). 
 4. Parámetros físicos: Latencia, Rendimiento, Capacidad de transferencia util.
+### Medios de cobre
+1. Mitigación de problemas en medios de cobre: Atenuación, EMI y RFI, Diafonía.
+2. Clasificación de par trenzado: UTP, FTP, STP, SFTP.
+3. Categoría de cableado EIA/TIA
+4. Cableado coaxial
 
 
