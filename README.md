@@ -27,5 +27,14 @@
 2. Clasificación de par trenzado: UTP, FTP, STP, SFTP.
 3. Categoría de cableado EIA/TIA
 4. Cableado coaxial
-
+### Características de la fibra óptica
+1. Tipos de fibra óptica: Monomodo, multimodo.
+2. Dispersión de fibra óptica.
+3. Usos de la fibra óptica.
+4. Conectores de fibra óptica.
+5. Cables de conexión: SM SC-SC, SM LC-LC, MM ST-SC
+6. Comparación de fibra y cobre.
+### Medios inalámbricos
+1. Limitaciones de los medios inalámbricos: Área de cobertura, interferencia, seguridad, funcionamiento half-duplex.
+2. Estándares de capa física de wlan.
 
