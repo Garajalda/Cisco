@@ -53,3 +53,8 @@
 ### Clases en direccionamiento IPV4
 1. RFC 790
 2. Entidades responsables del direccionamiento IPV4
+### Segmentación de redes
+1. Dominios de broadcast
+2. Segmentación de los dominios de broadcast
+### Planteamiento del problema de la división en subredes
+### Ejercicios de división de subredes
