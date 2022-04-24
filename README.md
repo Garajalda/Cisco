@@ -58,3 +58,4 @@
 2. Segmentación de los dominios de broadcast
 ### Planteamiento del problema de la división en subredes
 ### Ejercicios de división de subredes
+### VLSM
