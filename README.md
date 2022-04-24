@@ -81,4 +81,6 @@
 ### Configuración dinámica de direcciones LLA
 1. Direcciones LLA dinámicas en windows
 2. Direcciones LLA dinámicas en routers
+### Multicast en IPv6
+1. Prefijo de direcciones de multicast IPV6: FF00::/8, dirección de red multicast conocida y de nodo solicitado.
 
