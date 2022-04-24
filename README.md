@@ -72,4 +72,10 @@
 2. Configuración estática GUA en un router
 3. Configuración estática LLA en un router
 4. Configuración estática GUA en un host windows
+### Configuración dinámica de direcciones GUA
+1. Mensajes ICMPv6 RS y RA
+2. Métodos para configurar dinámicamente una GUA: SLAAC, SLAAC con servidor DHCPv6 stateless, Stateful DHCPv6 (no SLAAC)
+3. Generación de id de interfaz
+4. Id de interfaz generado mediante EUI-64
+5. Id de interfaz generado aleatoriamente (Windows)
 
