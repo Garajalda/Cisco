@@ -45,3 +45,8 @@
 1. Unicast
 2. Multicast
 3. Broadcast
+### Direccionamiento privado
+1. Tipos de direcciones: Públicas y privadas (RFC 1918)
+2. Direcciones privadas y NAT
+3. Direcciones loopback.
+4. Direcciones de enlace local (APIPA)
