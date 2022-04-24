@@ -62,4 +62,8 @@
 ### Agotamiento del direccionamiento IPV4
 1. Situación del espacio de direccionamiento IPV4
 2. Coexistencia de IPV4 e IPV6
-3. Técnicas de migración: Dual stack, Tunneling, Translation
+3. Técnicas de migración: Dual stack, Tunneling, Translation.
+### Estructura de una dirección IPV6
+1. Formato de una dirección IPV6
+2. Reglas en direcciones IPV6
+3. Ambigüedad en el uso de ::
