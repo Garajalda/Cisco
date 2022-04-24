@@ -41,4 +41,7 @@
 1. Parte de red y parte de host.
 2. Longitud de prefijo, máscara de subred.
 3. Direcciones de red y de broadcast.
-
+### Tipos de direcciones IPV4 según destinatario
+1. Unicast
+2. Multicast
+3. Broadcast
