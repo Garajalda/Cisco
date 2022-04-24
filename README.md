@@ -37,4 +37,8 @@
 ### Medios inalámbricos
 1. Limitaciones de los medios inalámbricos: Área de cobertura, interferencia, seguridad, funcionamiento half-duplex.
 2. Estándares de capa física de wlan.
+### Direcciones IPV4
+1. Parte de red y parte de host.
+2. Longitud de prefijo, máscara de subred.
+3. Direcciones de red y de broadcast.
 
