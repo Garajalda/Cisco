@@ -67,3 +67,9 @@
 1. Formato de una dirección IPV6
 2. Reglas en direcciones IPV6
 3. Ambigüedad en el uso de ::
+### Tipos de direcciones IPV6
+1. Configuración estática de direcciones GUA y LLA
+2. Configuración estática GUA en un router
+3. Configuración estática LLA en un router
+4. Configuración estática GUA en un host windows
+
