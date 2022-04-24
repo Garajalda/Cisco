@@ -78,4 +78,7 @@
 3. Generación de id de interfaz
 4. Id de interfaz generado mediante EUI-64
 5. Id de interfaz generado aleatoriamente (Windows)
+### Configuración dinámica de direcciones LLA
+1. Direcciones LLA dinámicas en windows
+2. Direcciones LLA dinámicas en routers
 
