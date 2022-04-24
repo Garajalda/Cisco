@@ -50,3 +50,6 @@
 2. Direcciones privadas y NAT
 3. Direcciones loopback.
 4. Direcciones de enlace local (APIPA)
+### Clases en direccionamiento IPV4
+1. RFC 790
+2. Entidades responsables del direccionamiento IPV4
