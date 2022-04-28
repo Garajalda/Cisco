@@ -84,3 +84,23 @@
 ### Multicast en IPv6
 1. Prefijo de direcciones de multicast IPV6: FF00::/8, dirección de red multicast conocida y de nodo solicitado.
 ### Subredes en IPv6
+### Funciones de la capa de transporte
+### TCP
+1. Características de TCP.
+2. Cabecera de un segmento TCP.
+3. Servicios y aplicaciones que usan TCP.
+### UDP
+1. Características de UDP.
+2. Cabecera UDP.
+3. Servicios y aplicaciones que usan UDP
+### Números de puerto
+1. Utilidad de los números de puerto.
+2. Socket.
+3. Rangos de números de puertos.
+4. Ejemplos de números de puertos.
+5. Verificación de sockets (NETSTAT).
+### Sesiones TCP
+1. Servicios y puertos.
+2. Establecimiento de una conexión TCP
+3. Finalización de una conexión TCP
+4. Protocolo Three way handshake
