@@ -104,3 +104,15 @@
 2. Establecimiento de una conexión TCP
 3. Finalización de una conexión TCP
 4. Protocolo Three way handshake
+### Comunicación UDP
+1. Confiabilidad de UDP
+2. Reensamblado de datos en UDP
+### Tecnologías inalámbricas
+1. Tipos de redes inalámbricas
+2. Tecnologías wimax y bluetooth
+3. Tecnologías de banda ancha celular y satelital
+4. Tecnologías IEEE 802.11
+5. Bandas de frecuencias en las que operan las normas de IEEE 802.11
+### Componentes de una WLAN
+1. WLC
+2. Antenas
