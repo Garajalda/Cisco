@@ -116,3 +116,24 @@
 ### Componentes de una WLAN
 1. WLC
 2. Antenas
+### Funcionamiento de una WLAN
+1. Tipologías inalámbricas 802.11
+2. Conjuntos de servicios
+3. Trama 802.11
+4. CSMA/CA
+5. Asociación de un cliente a un AP
+6. Modo de entrega activa y pasiva
+### CAPWAP
+1. Protocolo CAPWAP
+2. Tuneles en capwap
+3. Arquitectura split mac
+4. Cifrado dtls
+5. flexconnect
+### Gestión de canales
+1. Uso de los canales de modo eficiente
+2. Selección de canales a 2,4 gHz
+3. Selección de canales 5 gHz
+### Seguridad en WLANS
+1. Técnicas elementales de protección
+2. Autenticación en IEEE 802.11
+3. Profundización en la seguridad de las redes WLAN
