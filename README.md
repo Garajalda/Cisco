@@ -163,3 +163,10 @@
 ### Tabla MAC de un switch
 1. Modo de funcionamiento de un switch
 2. Aprendizaje y reenvio de un switch
+### Conmutación en un switch
+1. Métodos de conmutación
+2. Gestión de memoria en los switches
+3. Velocidad y duplex
+4. Auto-mdix
+## Prácticas de fundamentos de redes
+
