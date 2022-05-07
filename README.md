@@ -156,3 +156,10 @@
 1. La complejidad de la virtualización de red.
 2. Flujos de tráfico en una arquitectura virtualizada
 3. Virtualización de funciones de red: (Subinterfaces, Interfaces virtuales, VLAN, VRFs)
+### Direcciones MAC
+1. Asignación de una dirección mac a un dispositivo
+2. Procesamiento de tramas
+3. Tipos de direcciones MAC (Unidifusión, Multidifusión, Difusión)
+### Tabla MAC de un switch
+1. Modo de funcionamiento de un switch
+2. Aprendizaje y reenvio de un switch
