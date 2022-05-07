@@ -142,3 +142,9 @@
 2. Servicios en la nube
 3. Tipos de nubes
 4. Computación en la nube y centros de datos
+### Virtualización
+1. Computación en la nube y virtualización
+2. Servidores dedicados
+3. Virtualización de servidores
+4. Capas de abstracción
+5. Ventajas de la virtualización de servidores
