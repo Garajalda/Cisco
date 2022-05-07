@@ -148,3 +148,11 @@
 3. Virtualización de servidores
 4. Capas de abstracción
 5. Ventajas de la virtualización de servidores
+### Hypervisores
+1. Tipos de hypervisores: Bare-metal, Hypervisor alojado.
+2. Administración de hypervisor de tipo 1
+3. Ejemplos de hypervisor de tipo 2.
+### Virtualización de los servicios de red
+1. La complejidad de la virtualización de red.
+2. Flujos de tráfico en una arquitectura virtualizada
+3. Virtualización de funciones de red: (Subinterfaces, Interfaces virtuales, VLAN, VRFs)
