@@ -169,4 +169,4 @@
 3. Velocidad y duplex
 4. Auto-mdix
 ## Prácticas de fundamentos de redes
-
+### Práctica de la conectividad física en packet tracer. 
