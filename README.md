@@ -58,3 +58,115 @@
 2. Segmentación de los dominios de broadcast
 ### Planteamiento del problema de la división en subredes
 ### Ejercicios de división de subredes
+### VLSM
+### Agotamiento del direccionamiento IPV4
+1. Situación del espacio de direccionamiento IPV4
+2. Coexistencia de IPV4 e IPV6
+3. Técnicas de migración: Dual stack, Tunneling, Translation.
+### Estructura de una dirección IPV6
+1. Formato de una dirección IPV6
+2. Reglas en direcciones IPV6
+3. Ambigüedad en el uso de ::
+### Tipos de direcciones IPV6
+1. Configuración estática de direcciones GUA y LLA
+2. Configuración estática GUA en un router
+3. Configuración estática LLA en un router
+4. Configuración estática GUA en un host windows
+### Configuración dinámica de direcciones GUA
+1. Mensajes ICMPv6 RS y RA
+2. Métodos para configurar dinámicamente una GUA: SLAAC, SLAAC con servidor DHCPv6 stateless, Stateful DHCPv6 (no SLAAC)
+3. Generación de id de interfaz
+4. Id de interfaz generado mediante EUI-64
+5. Id de interfaz generado aleatoriamente (Windows)
+### Configuración dinámica de direcciones LLA
+1. Direcciones LLA dinámicas en windows
+2. Direcciones LLA dinámicas en routers
+### Multicast en IPv6
+1. Prefijo de direcciones de multicast IPV6: FF00::/8, dirección de red multicast conocida y de nodo solicitado.
+### Subredes en IPv6
+### Funciones de la capa de transporte
+### TCP
+1. Características de TCP.
+2. Cabecera de un segmento TCP.
+3. Servicios y aplicaciones que usan TCP.
+### UDP
+1. Características de UDP.
+2. Cabecera UDP.
+3. Servicios y aplicaciones que usan UDP
+### Números de puerto
+1. Utilidad de los números de puerto.
+2. Socket.
+3. Rangos de números de puertos.
+4. Ejemplos de números de puertos.
+5. Verificación de sockets (NETSTAT).
+### Sesiones TCP
+1. Servicios y puertos.
+2. Establecimiento de una conexión TCP
+3. Finalización de una conexión TCP
+4. Protocolo Three way handshake
+### Comunicación UDP
+1. Confiabilidad de UDP
+2. Reensamblado de datos en UDP
+### Tecnologías inalámbricas
+1. Tipos de redes inalámbricas
+2. Tecnologías wimax y bluetooth
+3. Tecnologías de banda ancha celular y satelital
+4. Tecnologías IEEE 802.11
+5. Bandas de frecuencias en las que operan las normas de IEEE 802.11
+### Componentes de una WLAN
+1. WLC
+2. Antenas
+### Funcionamiento de una WLAN
+1. Tipologías inalámbricas 802.11
+2. Conjuntos de servicios
+3. Trama 802.11
+4. CSMA/CA
+5. Asociación de un cliente a un AP
+6. Modo de entrega activa y pasiva
+### CAPWAP
+1. Protocolo CAPWAP
+2. Tuneles en capwap
+3. Arquitectura split mac
+4. Cifrado dtls
+5. flexconnect
+### Gestión de canales
+1. Uso de los canales de modo eficiente
+2. Selección de canales a 2,4 gHz
+3. Selección de canales 5 gHz
+### Seguridad en WLANS
+1. Técnicas elementales de protección
+2. Autenticación en IEEE 802.11
+3. Profundización en la seguridad de las redes WLAN
+### Computación en la nube
+1. Aspectos fundamentales de la computación en la nube
+2. Servicios en la nube
+3. Tipos de nubes
+4. Computación en la nube y centros de datos
+### Virtualización
+1. Computación en la nube y virtualización
+2. Servidores dedicados
+3. Virtualización de servidores
+4. Capas de abstracción
+5. Ventajas de la virtualización de servidores
+### Hypervisores
+1. Tipos de hypervisores: Bare-metal, Hypervisor alojado.
+2. Administración de hypervisor de tipo 1
+3. Ejemplos de hypervisor de tipo 2.
+### Virtualización de los servicios de red
+1. La complejidad de la virtualización de red.
+2. Flujos de tráfico en una arquitectura virtualizada
+3. Virtualización de funciones de red: (Subinterfaces, Interfaces virtuales, VLAN, VRFs)
+### Direcciones MAC
+1. Asignación de una dirección mac a un dispositivo
+2. Procesamiento de tramas
+3. Tipos de direcciones MAC (Unidifusión, Multidifusión, Difusión)
+### Tabla MAC de un switch
+1. Modo de funcionamiento de un switch
+2. Aprendizaje y reenvio de un switch
+### Conmutación en un switch
+1. Métodos de conmutación
+2. Gestión de memoria en los switches
+3. Velocidad y duplex
+4. Auto-mdix
+## Prácticas de fundamentos de redes
+### Práctica de la conectividad física en packet tracer. 
