@@ -170,5 +170,6 @@
 4. Auto-mdix
 ## Prácticas de fundamentos de redes
 ### Práctica de la conectividad física en packet tracer. 
-## Realización de redes IPv4 e IPv6 con PacketTracer y a papel
-## Simular comunicaciones de capa de transporte Packet Tracer
+### Realización de redes IPv4 e IPv6 con PacketTracer y a papel
+### Simular comunicaciones de capa de transporte Packet Tracer
+## Acceso a la red
