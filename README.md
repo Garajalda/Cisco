@@ -173,3 +173,9 @@
 ### Realización de redes IPv4 e IPv6 con PacketTracer y a papel
 ### Simular comunicaciones de capa de transporte Packet Tracer
 ## Acceso a la red
+### Configurar y verificar VLANs
+1. ¿Qué es una VLAN?
+2. VLANs en entornos conmutados múltiples
+3. Configuración de VLANs
+4. Enlaces troncales
+5. Protocolo DTP
