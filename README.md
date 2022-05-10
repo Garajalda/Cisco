@@ -187,3 +187,8 @@
 ### Configurar y verificar protocolos de descubrimiento de capa 2
 1. CDP como protocolo de descubrimiento de capa 2
 2. LLDP como protocolo de descubrimiento de capa 2
+### Configurar y verificar Etherchannel
+1. Conceptos generales de Etherchannel
+2. PAGP y LACP
+3. Configuración de Etherchannel
+4. Resolución de problemas de Etherchannel
