@@ -184,3 +184,6 @@
 2. Enrutamiento entre VLANs mediante 'Router on a stick'
 3. Enrutamiento entre VLANs mediante MLS
 4. Resolución de problemas de enrutamiento entre VLANs
+### Configurar y verificar protocolos de descubrimiento de capa 2
+1. CDP como protocolo de descubrimiento de capa 2
+2. LLDP como protocolo de descubrimiento de capa 2
