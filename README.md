@@ -179,3 +179,8 @@
 3. Configuración de VLANs
 4. Enlaces troncales
 5. Protocolo DTP
+### Configurar y verificar conectividad entre switches
+1. Concepto del enrutamiento entre VLANs
+2. Enrutamiento entre VLANs mediante 'Router on a stick'
+3. Enrutamiento entre VLANs mediante MLS
+4. Resolución de problemas de enrutamiento entre VLANs
