@@ -232,4 +232,12 @@
 2. Tipos de paquetes en OSPF
 3. Funcionamiento de OSPF
 4. El router ID
+5. Redes OSPF punto a punto
+6. Redes OSPF multiacceso (Elección de BDR)
+7. Configuración detallada de OSPF
+8. Verificación de funcionamiento de OSPF
+### Protocolos de redundancia de la puerta de enlace
+1. Conceptos de FHRP
+2. El protocolo HSRP
+
 
