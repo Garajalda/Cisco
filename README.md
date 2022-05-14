@@ -209,3 +209,27 @@
 5. Gestión de canales en WLAN
 6. Configuración de WLAN de ubicación remota
 7. Configuración de WLAN básica en WLC
+## Conectividad IP
+### Interpretar los componentes de la tabla de enrutamiento
+1. Función de un router
+2. Determinación de la mejor ruta
+3. Generación de la tabla de rutas
+4. Mecanismos de reenvío de paquetes en un router.
+5. Estructura de la tabla de enrutamiento IPv4
+6. Estructura de la tabla de enrutamiento IPv6
+7. Distancia administrativa
+8. Enrutamiento estático vs enturamiento dinámico
+9. Protocolos de enrutamiento dinámico
+### Configurar y verificar el enrutamiento estático Ipv4 e Ipv6
+1. Tipos de rutas estáticas
+2. Configuración de rutas estáticas
+3. Configuración de rutas predeterminadas
+4. Configuración de rutas flotantes
+5. Configuración de rutas de host
+6. Cómo un router con rutas estáticas reenvía paquetes
+### Configurar y verificar OSPF monoárea
+1. Características y componentes de OSPF
+2. Tipos de paquetes en OSPF
+3. Funcionamiento de OSPF
+4. El router ID
+
