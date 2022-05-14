@@ -192,3 +192,20 @@
 2. PAGP y LACP
 3. Configuración de Etherchannel
 4. Resolución de problemas de Etherchannel
+### El protocolo STP y sus variantes
+1. Función STP
+2. Algoritmo STP
+3. Elección del puente raíz
+4. Puertos raíz, designados y alernativos
+5. Elegir un puerto raíz a partir de múltiples rutas de igual costo
+6. Temporizadores y estados de puerto
+7. Evolución de STP
+8. PortFast y BPDUGuard
+### Arquitecturas inalámbricas en Cisco
+1. Conceptos generales de tecnologías inalámbricas
+2. Componentes de las WLAN
+3. Funcionamiento de las WLAN
+4. Administración de APs
+5. Gestión de canales en WLAN
+6. Configuración de WLAN de ubicación remota
+7. Configuración de WLAN básica en WLC
