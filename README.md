@@ -209,6 +209,15 @@
 5. Gestión de canales en WLAN
 6. Configuración de WLAN de ubicación remota
 7. Configuración de WLAN básica en WLC
+## Prácticas de acceso a la red
+1. Implementación de VLANs y Trunking
+2. Enrutameinto entre VLANs con Router on a Stick
+3. Enrutamiento entre VLANs con MLS
+4. Reconocimiento de red CDP
+5. Implementación de Etherchannel
+6. Verificación de funcionameinto de STP
+7. Configuración de una red inalámbrica
+8. Configuración de una WLAN básica con WLC
 ## Conectividad IP
 ### Interpretar los componentes de la tabla de enrutamiento
 1. Función de un router
@@ -239,5 +248,6 @@
 ### Protocolos de redundancia de la puerta de enlace
 1. Conceptos de FHRP
 2. El protocolo HSRP
+
 
 
