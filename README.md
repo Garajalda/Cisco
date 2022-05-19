@@ -243,6 +243,41 @@
 ### Protocolos de redundancia de la puerta de enlace
 1. Conceptos de FHRP
 2. El protocolo HSRP
+## Servicios IP
+### Configurar y verificar NAT
+1. Características de NAT
+2. Tipos de NAT
+3. NAT estático
+4. NAT dinámico
+5. PAT
+6. NAT64
+### Configurar y verificar NTP
+### Función de DNS y DHCP en una red
+### Función de SNMP
+### Función de SYSLOG
+1. Solución a problemas con un servidor de SYSLOG
+### Configuración de DHCP
+1. Funcionamiento de DHCPv4
+2. Configurar un servidor de DHCPv4
+3. RELAY DHCPv4
+4. Configurar un cliente de DHCPv4
+5. Direcciones GUA IPv6
+6. SLAAC
+7. Funcionamiento de DHCPv6 sin y con estado
+8. Configuración de DHCPv6
+9. RELAY DHCPv6
+### QoS
+1. Calidad de Servicio en redes
+2. Características del tráfico
+3. Algoritmos de gestión de colas
+4. Modelos QOS
+5. Herramientas QOS
+6. Clasificación y marcado
+7. Modelado y políticas
+### Configuración remota mediante SSH
+
+
+
 
 
 
