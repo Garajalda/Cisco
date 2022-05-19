@@ -210,9 +210,10 @@
 6. Configuración de WLAN de ubicación remota
 7. Configuración de WLAN básica en WLC
 ## Prácticas de acceso a la red
-1. Implementación de VLANs y Trunking
-2. Enrutameinto entre VLANs con Router on a Stick
-
+### Implementación de VLANs y Trunking
+### Enrutameinto entre VLANs con Router on a Stick
+### Enrutamiento entre VLANs con MLS
+### Reconocimiento de red con CDP
 ## Conectividad IP
 ### Interpretar los componentes de la tabla de enrutamiento
 1. Función de un router
