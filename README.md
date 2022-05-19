@@ -275,7 +275,47 @@
 6. Clasificación y marcado
 7. Modelado y políticas
 ### Configuración remota mediante SSH
-
+## Fundamentos de seguridad
+### Defición de conceptos claves de seguridad
+1. Amenazas y vulnerabilidades
+2. Ataques de red
+3. Mitigación de ataques de red
+### Descripción de elementos de seguridad
+1. Seguridad de punto final
+2. Control de acceso
+3. Seguridad en capa 2
+4. Ataques a tablas MAC en Switches
+5. Ataques en redes LAN
+### Configuración de control de acceso con claves locales
+### Descripción de elementos de políticas de seguridad en contraseñas
+### VPNs Site to Site y de acceso remoto
+1. Tecnologías de VPNs
+2. Tipos de VPNs: Acceso remoto, Site to site, dinámicas multipunto y proveedores.
+3. IPSec
+### Configurar y verificar ACLs
+1. Funcionamiento de las ACLs
+2. Máscaras Wildcard en las ACLs
+3. Creación de ACLs
+4. Tipos de ACLs para IPv4
+5. Configuración de ACL estándar IPv4
+6. Modificación de ACLs
+7. Protección de puertos con ACLs
+8. COnfiguración ACL estendida IPv4
+### Configurar características de seguridad de capa 2
+1. Implementación de la seguridad de puerto
+2. Configuraciones adicionales de la seguridad de puerto
+3. Mitigación de ataques de VLAN
+4. Mitigación de ataques DHCP
+5. Mitigación de ataques ARP
+6. Mitigación de ataques STP
+### Protocolos de seguridad en Wireless
+1. Amenazas en WLANs
+2. Seguridad en WLANs
+### Configuración de WLAN con WPA2 PSK
+1. Configuración de RADIUS y SNMP
+2. Implementación de una VLAN en una WLAN
+3. Configuración de un ámbito DHCP
+4. Configuración de WPA2
 
 
 
