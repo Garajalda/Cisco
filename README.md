@@ -214,6 +214,10 @@
 ### Enrutameinto entre VLANs con Router on a Stick
 ### Enrutamiento entre VLANs con MLS
 ### Reconocimiento de red con CDP
+### Implementación de Etherchannel
+### Verificación de funcionamiento de STP
+### Configuración de una red inalámbrica
+### Configuración de una WLAN básica con WLC
 ## Conectividad IP
 ### Interpretar los componentes de la tabla de enrutamiento
 1. Función de un router
