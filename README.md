@@ -248,6 +248,12 @@
 ### Protocolos de redundancia de la puerta de enlace
 1. Conceptos de FHRP
 2. El protocolo HSRP
+## Practicas conectividad IP
+### Conectividad IP entre dispositivos
+### Enrutamiento estático y por defecto
+### OSPF P2P y OSPF Multiacceso
+### Enrutamiento OSPF monoárea
+### Configuración de HSRP
 ## Servicios IP
 ### Configurar y verificar NAT
 1. Características de NAT
