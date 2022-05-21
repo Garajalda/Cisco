@@ -327,6 +327,8 @@
 2. Implementación de una VLAN en una WLAN
 3. Configuración de un ámbito DHCP
 4. Configuración de WPA2
+## Práticas de Servicios IP
+
 
 
 
