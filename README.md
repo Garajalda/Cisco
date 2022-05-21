@@ -286,6 +286,12 @@
 6. Clasificación y marcado
 7. Modelado y políticas
 ### Configuración remota mediante SSH
+## Práticas de Servicios IP
+### Configuración de NAT Dinámico
+### Configuración de PAT
+### Configuración NTP
+### Configuración DHCPv4
+
 ## Fundamentos de seguridad
 ### Defición de conceptos claves de seguridad
 1. Amenazas y vulnerabilidades
@@ -327,7 +333,26 @@
 2. Implementación de una VLAN en una WLAN
 3. Configuración de un ámbito DHCP
 4. Configuración de WPA2
-## Práticas de Servicios IP
+## Automatización y programabilidad
+### Automatización de red
+1. Cómo la automatización impacta en la gestión de red
+2. Interpretar datos codificados
+3. Formato JSON
+4. Formato YAML y XML
+5. API
+6. Rest API
+7. Herramientas de administración de configuración
+8. Redes basadas en intención
+9. Gestión de la red mediante Cisco DNA Center
+### Programabilidad de la red
+1. Plano de control y Plano de datos
+2. SDN
+3. Controladores
+4. CISCO ACI
+
+
+
+
 
 
 
