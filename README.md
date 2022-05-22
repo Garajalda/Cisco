@@ -350,6 +350,9 @@
 2. SDN
 3. Controladores
 4. CISCO ACI
+## Prácticas Fundamentos de seguridad
+### Configuración de contraseñas seguras y SSH
+
 
 
 
