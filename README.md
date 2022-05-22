@@ -291,7 +291,8 @@
 ### Configuración de PAT
 ### Configuración NTP
 ### Configuración DHCPv4
-
+### Configuración de SSH
+### TFTP
 ## Fundamentos de seguridad
 ### Defición de conceptos claves de seguridad
 1. Amenazas y vulnerabilidades
